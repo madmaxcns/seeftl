@@ -1,0 +1,161 @@
+.container-fluid {
+    background-color: #FFFFFF;
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    text-shadow: 0px 0px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    border: thin solid #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,188,104,1.00) 51.30%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,188,104,1.00) 51.30%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,188,104,1.00) 51.30%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,188,104,1.00) 51.30%,rgba(255,255,255,1.00) 100%);
+}
+
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+    text-shadow: 1px 1px #000000;
+    font-size: large;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: oblique;
+}
+.row .col-lg-4 p {
+}
+.row .col-lg-4 img {
+    display: block;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(101,161,255,1.00) 0%,rgba(101,161,255,1.00) 65.80%,rgba(101,161,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(101,161,255,1.00) 0%,rgba(101,161,255,1.00) 65.80%,rgba(101,161,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(101,161,255,1.00) 0%,rgba(101,161,255,1.00) 65.80%,rgba(101,161,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(101,161,255,1.00) 0%,rgba(101,161,255,1.00) 65.80%,rgba(101,161,255,1.00) 100%);
+    font-weight: bolder;
+}
+#accordion1 .card #headingOne1 {
+
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-style: hidden;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,224,17,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,224,17,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,224,17,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,224,17,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    color: #FFFFFF;
+}
+
+
+
+.row .col-lg-8 .text-center {
+    font-size: small;
+    color: #000000;
+    text-shadow: 1px 1px 0px #FFFFFF;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(181,255,191,1.00) 0%,rgba(255,255,255,1.00) 46.11%,rgba(181,255,191,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(181,255,191,1.00) 0%,rgba(255,255,255,1.00) 46.11%,rgba(181,255,191,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(181,255,191,1.00) 0%,rgba(255,255,255,1.00) 46.11%,rgba(181,255,191,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(181,255,191,1.00) 0%,rgba(255,255,255,1.00) 46.11%,rgba(181,255,191,1.00) 100%);
+}
+
+
+
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    text-align: center;
+    border: thin solid #0888FF;
+}
+.container div .text-center {
+    color: #FFA106;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-shadow: 1px 1px #000000;
+    letter-spacing: 5px;
+    font-weight: bolder;
+}
+
+
+.container-fluid .container .text-center {
+}
+
+
+.col-lg-3 .card.col-md-4.col-lg-12 .card-img-top.img-fluid.rounded {
+    max-width: 318px;
+    max-height: 120px;
+    min-height: 120px;
+    border-color: #0888FF;
+    border-style: hidden;
+}
+.container-fluid .container spotlights {
+    color: #E000BC;
+    font-family: cabin-sketch;
+    font-style: normal;
+    font-weight: 700;
+    font-size: xx-large;
+    line-height: 0px;
+    text-align: center;
+    text-shadow: 0px 0px #000000;
+    word-spacing: 5px;
+    letter-spacing: 20px;
+}
+.row .col-lg-3 .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 47.15%,rgba(255,255,255,1.00) 47.15%,rgba(166,149,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 47.15%,rgba(255,255,255,1.00) 47.15%,rgba(166,149,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 47.15%,rgba(255,255,255,1.00) 47.15%,rgba(166,149,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 47.15%,rgba(255,255,255,1.00) 47.15%,rgba(166,149,255,1.00) 100%);
+    text-align: center;
+}
+
+.container-fluid .container div {
+    text-align: center;
+}
+
+
+
+
+
+.carousel-inner .carousel-item.active .carousel-caption {
+    text-shadow: 2px 2px #000000;
+}
+.row .col-md-6 .img-fluid.rounded {
+    text-align: center;
+    background-color: #B0FFAA;
+}
+.row .col-md-4 p {
+    color: #000000;
+    text-shadow: 0px 1px #000000;
+}
+.container-fluid .container .text-center {
+    color: #FFA106;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bolder;
+}
+.list-group-item .row .offset-md-1.col-md-8 {
+}
+.row .col-lg-8 .text-center {
+    color: #000000;
+}
+.container-fluid .container .text-center {
+    color: #FF9819;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bolder;
+    text-shadow: 1px 1px #000000;
+}
+.container div .row {
+    background-image: -webkit-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 46.63%,rgba(166,149,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 46.63%,rgba(166,149,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 46.63%,rgba(166,149,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(166,149,255,1.00) 0%,rgba(255,255,255,1.00) 46.63%,rgba(166,149,255,1.00) 100%);
+}
+.card-body .row .col-md-6 {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
